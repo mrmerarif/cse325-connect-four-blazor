@@ -1,0 +1,18 @@
+
+# .NET build files
+bin/
+obj/
+
+# Visual Studio and VS Code
+.vs/
+.vscode/
+*.user
+*.suo
+
+# Local files
+.local
+*.local
+
+# Local secrets and environment files
+.env
+.env.*
